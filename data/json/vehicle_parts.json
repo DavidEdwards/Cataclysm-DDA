@@ -2122,7 +2122,7 @@
         "durability" : 100,
         "folded_volume" : 8,
         "bonus" : 24,
-        "item" : "omnicamera",
+        "item" : "nv_omnicam",
         "epower": -100,
         "difficulty" : 5,
         "location" : "on_roof",
