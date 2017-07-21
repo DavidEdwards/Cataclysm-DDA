@@ -2213,6 +2213,30 @@
   ]
 },{
   "type" : "recipe",
+  "result": "nv_omnicamera",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_PARTS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 3 ],
+  "difficulty": 8,
+  "time": 180000,
+  "book_learn": [ [ "textbook_electronics", 6 ], ["advanced_electronics", 6 ] ],
+  "qualities":[ {"id":"SCREW","level":1} ],
+  "tools": [
+    [
+    [ "soldering_iron", 50 ],
+    [ "toolset", 50 ]
+    ],
+    [ [ "mold_plastic", -1 ] ]
+  ],
+  "components": [
+    [ [ "omnicamera", 1 ] ],
+    [ [ "cable", 2 ] ],
+    [ [ "superglue", 20 ] ],
+    [ [ "goggles_nv", 1 ] ]
+  ]
+},{
+  "type" : "recipe",
   "result": "makeshift_sealer",
   "category": "CC_ELECTRONIC",
   "subcategory": "CSC_ELECTRONIC_TOOLS",
