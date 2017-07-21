@@ -2113,7 +2113,7 @@
     {
         "type" : "vehicle_part",
         "id" : "nv_omnicam",
-        "name" : "security camera (night-vision)",
+        "name" : "night vision security camera",
         "symbol" : "o",
         "color" : "light_red",
         "broken_symbol" : "#",
