@@ -895,6 +895,20 @@
     },
     {
         "type":"GENERIC",
+        "id" : "nv_omnicamera",
+        "name" : "night vision security camera",
+        "description" : "A security camera you could connect to a display.  Image quality is quite low, but the field of vision is great.  Night-vision goggles have been attached to it, allowing it to see in the dark.",
+        "weight" : 1200,
+        "to_hit" : -3,
+        "color" : "light_blue",
+        "symbol" : "+",
+        "material" : ["plastic"],
+        "volume" : 10,
+        "category" : "veh_parts",
+        "price" : 12000
+    },
+    {
+        "type":"GENERIC",
         "id": "robot_controls",
         "name": "robot driving unit",
         "name_plural" : "robot driving units",
